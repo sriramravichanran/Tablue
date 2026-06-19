@@ -12,7 +12,7 @@ The objective of this project is to transform raw sales data into actionable bus
 
 ### KPI Metrics 
 - Total Quantity Sold
-- Total Revenue Generated
+- Total Revenue Generated 
 - Total Orders Processed
 
 ### Interactive Filters
