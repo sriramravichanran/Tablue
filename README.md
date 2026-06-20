@@ -19,7 +19,7 @@ The objective of this project is to transform raw sales data into actionable bus
 - Category 
 - Ship Country
 - Ship State
-- Status
+- Status 
 - Courier Status
 
 ### Visualizations
