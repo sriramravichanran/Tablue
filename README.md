@@ -6,7 +6,7 @@ This project presents an interactive Amazon Sales Dashboard built using Tableau.
 
 The objective of this project is to transform raw sales data into actionable business insights through interactive visualizations and KPI monitoring. 
 
---- 
+---     
 
 ## Key Features
 
