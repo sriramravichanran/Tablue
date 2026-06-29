@@ -23,7 +23,7 @@ The objective of this project is to transform raw sales data into actionable bus
 - Courier Status
 
 ### Visualizations
-- Ship Service Analysis
+- Ship Service Analysis 
 - Sales Channel Analysis
 - Fulfillment Analysis
 - Monthly Sales Trend
