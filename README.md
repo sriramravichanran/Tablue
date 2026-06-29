@@ -16,7 +16,7 @@ The objective of this project is to transform raw sales data into actionable bus
 - Total Orders Processed
 
 ### Interactive Filters
-- Category 
+- Category   
 - Ship Country
 - Ship State
 - Status 
